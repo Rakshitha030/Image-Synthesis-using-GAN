@@ -31,8 +31,6 @@ Clean, dark, vibrant UI
 
 Outputs both images and videos
 
-flowchart TD
-    A[User Uploads Image] --> B[Prompt Provided?]
 
     B -- No --> C[Image-to-Video Pipeline]
     C --> C1[Stable Video Diffusion]
