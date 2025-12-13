@@ -31,6 +31,7 @@ Clean, dark, vibrant UI
 
 Outputs both images and videos
 
+'''mermaid
 flowchart TD
     B{Prompt Provided?}
 
